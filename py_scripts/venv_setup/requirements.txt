@@ -1,0 +1,6 @@
+numpy==1.19.4
+pandas==1.1.2
+pyarrow==1.0.1
+scipy==1.5.2
+siuba==0.0.24
+pathlib==1.0.1
